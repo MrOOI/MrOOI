@@ -5,8 +5,6 @@
 #### - 👯 I’m looking to collaborate on .Net open source projects
 #### - 📫 How to reach me: [Telegram](https://t.me/MrOOI_00) | [LinkedIn](https://www.linkedin.com/in/mrooi/)
 #### - 📫 Email: ogabekochilov25@gmail.com
-#### - 💬 Ask me about .Net 
-#### - ✈️ I'm gonna go abroad.
 <!--
 **MrOOI/MrOOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
