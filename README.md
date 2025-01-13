@@ -2,7 +2,7 @@
 
 #### If you have been looking .Net developer, you're right place.
 #### - 🌱 Bachelor degree in Information technology.
-#### - 📫 How to reach me: [Telegram](https://t.me/MrOOI_00) | [LinkedIn](https://www.linkedin.com/in/mrooi/)
+#### - 📫 How to reach me: [Telegram](https://t.me/ogabek_ochilov) | [LinkedIn](https://www.linkedin.com/in/mrooi/)
 #### - 📫 Email: ogabekochilov25@gmail.com
 <!--
 **MrOOI/MrOOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
