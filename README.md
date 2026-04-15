@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Og'abek
 
-#### If you have been looking .Net developer, you're right place.
+#### If you have been looking Software Engineer, you're right place.
 #### - 🌱 Bachelor degree in Information technology.
 #### - 📫 How to reach me: [Telegram](https://t.me/ogabek_ochilov) | [LinkedIn](https://www.linkedin.com/in/mrooi/)
 #### - 📫 Email: ogabekochilov25@gmail.com
